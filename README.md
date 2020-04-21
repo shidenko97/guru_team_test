@@ -1,2 +1,5 @@
-# guru_team_test
-Just a guru.team test exercise
+# Guru.team test exercise
+Just a Guru.team test exercise 
+
+## Explanation
+[Test task file](task.pdf)
